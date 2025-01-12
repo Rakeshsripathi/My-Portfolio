@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://sunnyakinepally.github.io/My-Portfolio/assets/img/sunny.png"  />
+<!-- <img align="right" height="150" src="https://sunnyakinepally.github.io/My-Portfolio/assets/img/sunny.png"  /> -->
 
 ###
 
